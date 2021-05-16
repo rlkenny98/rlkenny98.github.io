@@ -1,28 +1,12 @@
+# Robert Kenny's portfolio 
+This is a portfolio created as a result of an assignment for my software engineering class
+
 # ParticleGround-Portfolio
 
 A particle-theme template as a landing page for your portfolio.
 
-> [Demo](https://landing-page--itsron717.repl.co/)
 
-<img src="particle_demo/particle_demo.png"/>
 
-# Using the Template
-
-  - Fork and Clone the repository
-
-    ```
-    $ git clone https://github.com/itsron717/ParticleGround-Portfolio.git
-    ```
- 
-  - Go inside the main repository
-  
-    ```
-    $ cd ParticleGround-Portfolio
-    ```
-    
-  - Modify `index.html` to change the names and links to point at your pages.
-  
-  - Upload your resume in the place of `deedy.pdf` (Or One can use the famous deedy template and build on that)
    
 # Particle Feature
 
