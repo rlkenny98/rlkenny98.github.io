@@ -1,11 +1,11 @@
-theme: jekyll-theme-midnight
-lsi: false
-safe: true
-source: [main]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# Site settings
+title: Robert Kenny's Portfolio 
+description: A personal portfolio site that displays relevant information about myself!
+
+# User settings
+username: rlkenny 
+user_description: Computer Science Senior at California State University Fullerton!
+user_title: CS Student
+email: rlkenny@csu.fullerton.edu
+twitter_username: rkenny98
+github_username:  rlkenny98
